@@ -42,7 +42,8 @@
     "@astrojs/renderer-svelte": "0.3.1",
     "@astrojs/renderer-vue": "0.3.0",
     "astro-scripts": "0.0.1",
-    "@example/with-markdown-shiki": "0.0.1"
+    "@example/with-markdown-shiki": "0.0.1",
+    "@example/ssr": "0.0.1"
   },
   "changesets": [
     "afraid-crabs-heal",
@@ -67,6 +68,7 @@
     "shaggy-shoes-leave",
     "shy-brooms-tell",
     "six-ants-hunt",
+    "slow-islands-fix",
     "soft-mayflies-warn",
     "tiny-owls-dress"
   ]
